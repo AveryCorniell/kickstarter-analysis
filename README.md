@@ -16,15 +16,15 @@ I relied on two resources to accurately complete this task:
 - <https://www.epochconverter.com/>  
 Once reformatted, I used the Launch date as one of the basis for analyzing the outcomes.  
 Also, since Louise is interested in theater outcomes, most importantly musicals, I had to seperate the category column into two columns (parent category and subcategory)  
-![New Colums Created](D:\Vanderbilt-DataAnalyticsBC\Module1\Crowdfunding Analysis\NewColumnsCreated.png)  
-![Parent Statistics](D:\Vanderbilt-DataAnalyticsBC\Module1\Crowdfunding Analysis\ParentStatistics.png)  
-![Subcategory Statistics](D:\Vanderbilt-DataAnalyticsBC\Module1\Crowdfunding Analysis\SubcategoryStatistics.png)  
+![NewColumnsCreated](https://user-images.githubusercontent.com/83401820/122660483-8f2e6e00-d147-11eb-80ce-fd8117feb23a.png)  
+![ParentStatistics](https://user-images.githubusercontent.com/83401820/122660484-8f2e6e00-d147-11eb-95e3-ba0d7914846b.png)   
+![SubcategoryStatistics](https://user-images.githubusercontent.com/83401820/122660482-8e95d780-d147-11eb-8da5-70bd246fa452.png)  
 
 ### Analysis of Outcomes Based on Launch Date  
-![Outcomes Based on Launch Date](D:\Vanderbilt-DataAnalyticsBC\Module1\Crowdfunding Analysis\Resources\Theater_Outcomes_vs_Launch.png)  
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/83401820/122660542-f1876e80-d147-11eb-8d6d-4c689876ea1e.png)    
 
 ### Analysis of Outcomes Based on Goals  
-![Outcomes Based on Goals](D:\Vanderbilt-DataAnalyticsBC\Module1\Crowdfunding Analysis\Resources\Outcome_vs_Goals.png)  
+![Outcome_vs_Goals](https://user-images.githubusercontent.com/83401820/122660543-f2200500-d147-11eb-8040-0a46e588e6fc.png)    
 
 ## Results
 
